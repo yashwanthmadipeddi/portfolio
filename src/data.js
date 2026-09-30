@@ -7,7 +7,7 @@
   phone: "7893584674",
   linkedin: "https://www.linkedin.com/in/yashwanthmadipeddi",
   github: "https://github.com/yashwanthmadipeddi",
-  resume: "/Yashwanth_Madipeddi_Resume.pdf",
+  resume: "/Yashwanth_Madipeddi_resume.pdf",
   portfolioLine:
     "I build practical, production-minded web products with Python, Django, React, PostgreSQL, and modern deployment workflows."
 };
